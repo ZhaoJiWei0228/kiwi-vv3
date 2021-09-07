@@ -1,5 +1,5 @@
 module.exports = {
-  base: '/vue3_study/', /* 基础虚拟路径 */
+  base: '/kiwi-vv3/', /* 基础虚拟路径 */
   dest: 'docs/dist', /* 打包文件基础路径, 在命令所在目录下 */
   title: 'Vue3+TS 快速上手', // 标题
   description: '前端小赵Vue3_TS', // 标题下的描述
